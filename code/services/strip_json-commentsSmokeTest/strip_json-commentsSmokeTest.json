@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,strip_json-comments",
+    "logging_enabled": "false",
+    "name": "strip_json-commentsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "strip_json-commentsSmokeTest.js"
+}
